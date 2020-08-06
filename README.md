@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi, I'm Vipul 👋🏾  👨‍💻 - A Full Stack Machine Learning Engineer
+
+I enjoy building data driven products 🛰
+
+I’ve worked with organizations of all sizes on two continents, from Fortune 250 companies to small startups 🚩
+
+I'm a mentor to various AI startups and machine learning enthusiasts. Through mentoring, I accelerate my own constant learning, because there is always something that you want to do better when teaching that knowledge to others 👨‍🔬
+
+<img src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_691886452_405128.jpg">
+
+
+
+I am passionate about designing, building, and deploying machine learning solutions as an end to end AI products 🎩
