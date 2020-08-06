@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, I'm Vipul 👋🏾  👨‍💻 - A Full Stack Machine Learning Engineer
+Hi, I'm Vipul 👋🏾  👨‍💻 - I am a Full Stack Machine Learning Engineer
 
 I enjoy building data driven products 🛰
 
