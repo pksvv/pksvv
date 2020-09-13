@@ -24,7 +24,7 @@ I’ve worked with organizations of all sizes on two continents, from Fortune 25
 
 I'm a mentor to various AI startups and machine learning enthusiasts. Through mentoring, I accelerate my own constant learning, because there is always something that you want to do better when teaching that knowledge to others 👨‍🔬
 
-<img src="https://thumbs.dreamstime.com/b/d-rendering-artificial-intelligence-concpt-brain-app-view-117494405.jpg">
+<img src="https://builtin.com/sites/default/files/styles/medium/public/2018-08/artificial-intelligence-companies.jpg">
 
 
 
