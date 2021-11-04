@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
+![Visitor Count](https://profile-counter.glitch.me/pksvv/count.svg)
+
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pksvv&column=7"/>
+  </a>
+</div>
+
 Hi, I'm Vipul 👋🏾  👨‍💻 - I am a Full Stack Machine Learning Engineer
 
 I enjoy building data driven products 🛰
