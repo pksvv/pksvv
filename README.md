@@ -1,4 +1,6 @@
-### Hi there  👋
+### Hello
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vipul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipulgaur9/)](https://www.linkedin.com/in/vipulgaur9/)
 
 <!--
 **pksvv/pksvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
