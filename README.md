@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-Hi, I'm Vipul 👋🏾  👨‍💻 - I am a Full Stack Machine Learning Engineer
+I am Vipul 👋🏾  👨‍💻 - I am a Full Stack Machine Learning Engineer
 
 I enjoy building data driven products 🛰
 
