@@ -1,7 +1,7 @@
 # Hey there! 👋🏾  
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vipul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipulgaur9/)](https://www.linkedin.com/in/vipulgaur9/)  
-![Visitor Count](https://profile-counter.glitch.me/pksvv/count.svg)  
+![Visitor Count](https://komarev.com/ghpvc/?username=pksvv&label=Visitors&color=blue&style=flat-square)
 
 ---
 
