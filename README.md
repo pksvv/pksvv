@@ -1,62 +1,58 @@
-# Hey there! 👋🏾  
+# Vipul Gaur
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vipul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vipulgaur9/)](https://www.linkedin.com/in/vipulgaur9/)  
-![Visitor Count](https://komarev.com/ghpvc/?username=pksvv&label=Visitors&color=blue&style=flat-square)
+**Engineering Director | Enterprise AI | Data Platforms | Knowledge Systems | Modernization Architecture**
 
----
+I work at the intersection of enterprise AI, data platforms, knowledge systems, SaaS modernization and large-scale engineering transformation.
 
-## 🚀 About Me  
-🧑‍💻 **Vipul Gaur** | 🏗️ **Full Stack Machine Learning Engineer**  
-🔹 Passionate about **high-throughput, low-latency distributed systems**  
-🔹 Architecting **Conversational AI products & AI-driven platforms**  
-🔹 Worked across **Fortune 250 companies & startups** 🌍  
+This GitHub profile is being organized as a public portfolio of sanitized prototypes, architecture notes and reusable implementation patterns. Public repositories here are intended to demonstrate generic architecture thinking and implementation approaches without exposing employer-specific information, confidential enterprise data or internal business processes.
 
 ---
 
-## 🎯 What I Do  
+## What I Focus On
 
-🔥 **AI & ML Development**  
-🚀 **Building end-to-end AI-driven solutions**  
+### Enterprise AI & GenAI
 
-🔹 **Platform Modernization**  
-🏗️ **Designing scalable & reliable distributed systems**  
+Practical patterns for applying AI in large organizations, including knowledge discovery, workflow assistance, evaluation, governance and production readiness.
 
-🤖 **Conversational AI**  
-💬 **Creating intelligent chatbots & virtual assistants**  
+### Data Product Platforms
 
----
+Self-service data discovery, governed data access, metadata-driven experiences, data contracts and reusable data product thinking.
 
-## 🏆 GitHub Profile Trophy  
-<div>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pksvv&column=7&theme=radical"/>
-  </a>
-</div>
+### Knowledge Systems
 
----
+Approaches for turning documents, metadata, taxonomies, workflows and domain knowledge into searchable, contextual and reusable intelligence.
 
-## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+### Modernization Architecture
+
+Architecture approaches for enterprise applications, SaaS ecosystems, integration strategy, cloud modernization and platform simplification.
+
+### Engineering Leadership
+
+Platform thinking, reusable architecture, distributed teams, vendor governance, delivery discipline and enterprise stakeholder alignment.
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pksvv&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pksvv&layout=compact&theme=tokyonight)  
+## Current Areas of Exploration
+
+- Enterprise AI architecture patterns
+- Data product catalog experiences
+- Knowledge systems and domain intelligence
+- AI governance and production readiness
+- Agentic software delivery
+- Architecture communication
+- Content systems for technical authority
 
 ---
 
-## ⚡ Fun Fact  
-💡 I love experimenting at the **intersection of AI, distributed systems, and real-world impact**. If you're into cutting-edge tech, let's connect!  
+## Public Portfolio Principle
 
-🔥 **Let’s build something awesome together!** 🚀  
+All public repositories are intended to be sanitized, generic and reusable.
+
+They are designed to demonstrate architecture thinking, implementation patterns and learning artifacts without exposing confidential enterprise information.
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/vipulgaur9](https://www.linkedin.com/in/vipulgaur9)
+- GitHub: [github.com/pksvv](https://github.com/pksvv)
