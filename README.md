@@ -4,8 +4,6 @@
 
 I work at the intersection of enterprise AI, data platforms, knowledge systems, SaaS modernization and large-scale engineering transformation.
 
-This GitHub profile is being organized as a public portfolio of sanitized prototypes, architecture notes and reusable implementation patterns. Public repositories here are intended to demonstrate generic architecture thinking and implementation approaches without exposing employer-specific information, confidential enterprise data or internal business processes.
-
 ---
 
 ## What I Focus On
